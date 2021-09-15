@@ -9,6 +9,7 @@
 
 [![Actions Status](https://github.com/2127057/comp2_tutorial/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/2127057/comp2_tutorial/actions/workflows/c-cpp.yml)
 
+
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
 
