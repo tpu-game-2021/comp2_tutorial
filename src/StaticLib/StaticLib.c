@@ -5,5 +5,5 @@
 
 const char *HelloWorld()
 {
-	return 0;
+	return  "C";
 }
