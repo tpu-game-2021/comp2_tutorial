@@ -6,5 +6,5 @@
 const char *HelloWorld()
 {
 	// ここを何かに書き換える
-	return HelloWorld;
+	return "Hello world!";
 }
