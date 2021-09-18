@@ -4,7 +4,6 @@
 #include "../include/library.h"
 
 const char *HelloWorld()
-{
-	// ここを何かに書き換える
-	return NULL;
+{	
+		 return ("Hello world!");
 }
