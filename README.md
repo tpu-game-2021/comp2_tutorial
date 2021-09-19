@@ -9,6 +9,8 @@
 
 [![Actions Status](https://github.com/the-maninthe-highcastle/comp2_tutorial/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/the-maninthe-highcastle/comp2_tutorial/actions/workflows/c-cpp.yml)
 
+
+
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
 
